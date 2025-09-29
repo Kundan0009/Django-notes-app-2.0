@@ -24,3 +24,8 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# MySQL data directory
+data/
+*.sock
+*.pid

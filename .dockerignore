@@ -1,0 +1,15 @@
+data/
+.git/
+.gitignore
+README.md
+*.log
+.env
+.venv
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+node_modules/
+*.tmp
+*.temp
